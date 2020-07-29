@@ -4,7 +4,6 @@ html {
 
 body {
 	height: 100%;
-	background-image: linear-gradient(to left, #e600ff, #fff);
 	color: #454343;
 	font-family: 'Mulish', sans-serif;
 }
@@ -22,12 +21,11 @@ h1 {
 	position: relative;
 	word-wrap: true;
 	margin: auto;
-	border-radius: 10px;
-	border-right: solid 10px #00fbff;
-	border-left: solid 10px #00fbff;
+	border-left: solid 10px skyblue;
 }
 
 .content-1 {
+	padding: 10px;
 	font-size: 16px;
 	line-height: 1.8em;
 	font-family: Helvetica, sans-serif;
