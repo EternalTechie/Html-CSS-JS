@@ -6,12 +6,11 @@ body {
 	background-color: #4E4E50;
 	color: turquoise;
 	height: 100%;
-	font-family: 'Mulish', sans-serif;
+	font-family: cursive;
 }
 
 h1 {
 	margin-top: 5%;
-	font-family: sans-serif, Verdana;
 	text-align: center;
 }
 
@@ -23,13 +22,12 @@ h1 {
 	position: relative;
 	word-wrap: true;
 	margin: auto;
-	border-radius: 5px;
+	border-radius: 10px;
 	border-left: solid 10px #1A1A1D;
 }
 
 .content-1 {
 	padding: 10px;
-	font-size: 16px;
-	line-height: 1.8em;
-	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 2em;
 }
