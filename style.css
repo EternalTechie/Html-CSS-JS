@@ -3,25 +3,28 @@ html {
 }
 
 body {
+	background-color: #4E4E50;
+	color: turquoise;
 	height: 100%;
-	color: #454343;
 	font-family: 'Mulish', sans-serif;
 }
 
 h1 {
 	margin-top: 5%;
-	color: #454343;
 	font-family: sans-serif, Verdana;
 	text-align: center;
 }
 
 .container {
+	box-shadow: 15px 15px #000;
+	background-color: #1A1A1D;
 	height: 100%;
 	width: 55%;
 	position: relative;
 	word-wrap: true;
 	margin: auto;
-	border-left: solid 10px skyblue;
+	border-radius: 5px;
+	border-left: solid 10px #1A1A1D;
 }
 
 .content-1 {
