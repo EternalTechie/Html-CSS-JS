@@ -9,14 +9,15 @@ body {
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
+a {
+	color: lime;
+	text-decoration: none;
+}
+
 .heading-1 {
 	font-family: titillium, Arial;
 	margin-top: 5%;
 	text-align: center;
-}
-
-.Main-1 {
-	font-family: Yellowtail, cursive, Arial;
 }
 
 .container {
