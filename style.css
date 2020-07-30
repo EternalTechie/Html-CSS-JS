@@ -6,21 +6,26 @@ body {
 	background-color: #4E4E50;
 	color: turquoise;
 	height: 100%;
-	font-family: cursive;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
-h1 {
+.heading-1 {
+	font-family: titillium, Arial;
 	margin-top: 5%;
 	text-align: center;
 }
 
+.Main-1 {
+	font-family: Yellowtail, cursive, Arial;
+}
+
 .container {
+	margin-top: 70px;
 	box-shadow: 15px 15px #000;
 	background-color: #1A1A1D;
-	height: 100%;
+	height: auto;
 	width: 55%;
-	position: relative;
-	word-wrap: true;
+	word-wrap: break-word;
 	margin: auto;
 	border-radius: 10px;
 	border-left: solid 10px #1A1A1D;
