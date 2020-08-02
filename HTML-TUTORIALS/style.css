@@ -1,0 +1,14 @@
+body {
+    background-color: #fff;
+    font-family: Open Sans MS, sans-serif, Arial;
+    height: auto;
+    word-wrap: break-word;
+}
+
+.container-1 {
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 10px;
+}
